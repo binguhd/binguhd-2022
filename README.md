@@ -84,11 +84,11 @@
 
 ## 📦 存储
 
-- 🐎 [bing-UHD-2026](https://github.com/binguhd/binguhd-2026)
-- 🐍 [bing-UHD-2025](https://github.com/binguhd/binguhd-2025)
-- 🐉 [bing-UHD-2024](https://github.com/binguhd/binguhd-2024)
-- 🐇 [bing-UHD-2023](https://github.com/binguhd/binguhd-2023)
-- 🐅 [bing-UHD-2022](https://github.com/binguhd/binguhd-2022)
+- 🐎 [binguhd-2026](https://github.com/binguhd/binguhd-2026)
+- 🐍 [binguhd-2025](https://github.com/binguhd/binguhd-2025)
+- 🐉 [binguhd-2024](https://github.com/binguhd/binguhd-2024)
+- 🐇 [binguhd-2023](https://github.com/binguhd/binguhd-2023)
+- 🐅 [binguhd-2022](https://github.com/binguhd/binguhd-2022)
 
 ## 🗂️ 目录
 
